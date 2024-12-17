@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raja Avinash</h1>
-<h3 align="center">A CSE middler who loves exploring new fields and empowering others</h3>
+<h3 align="center">A CSE graduate who loves exploring new fields and empowering others</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaavinash123&label=Profile%20views&color=0e75b6&style=flat" alt="rajaavinash123" /> </p>
 
